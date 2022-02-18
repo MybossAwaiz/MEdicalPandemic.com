@@ -1,1 +1,1 @@
-# MEdicalPandemic.com
+# MedicalPandemic.com
